@@ -1,4 +1,4 @@
-SolAI
+# SolAI   
 This app is completely powered by Open Source Models.
 
 Resources used
